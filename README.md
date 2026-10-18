@@ -1,6 +1,5 @@
 # UNIVERSIDAD POLITÉCNICA SALESIANA
 # Persistencia de Datos
-## Estudiante: Cecilia Sánchez
 ## Unidad 1 Tarea 1
 
 ## Persistencia de datos con Hibernate y PostgreSQL
