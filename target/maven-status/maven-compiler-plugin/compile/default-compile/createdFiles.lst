@@ -1,0 +1,4 @@
+com\clinicaOdontologica\dao\HistoriaClinicaDAO.class
+com\clinicaOdontologica\ui\HistoricaClinicaUI.class
+com\mycompany\clinicaodontologicapersistencia\ClinicaOdontologicaPersistencia.class
+com\clinicaOdontologica\entities\historiaClinica.class
